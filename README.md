@@ -1,5 +1,5 @@
 # Java-Anagrams-Checker
-A simple Java program to check if two strings are Anagram of each other or not.
+A simple Java program to check if two strings are Anagrams or not.
 
 ## What are Anagrams? 🤔
 The words that contains same alphabets which are same in number as well. The common example of Anagrams are "Race" and "Care".
